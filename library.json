@@ -1,0 +1,27 @@
+{
+  "name": "ArduinoMultiWiFi",
+  "version": "1.0.0",
+  "description": "WiFi manager utilizing the scan feature",
+  "keywords": "wifi, scan, multi",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Fischer-Simon/ArduinoMultiWiFi.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Fischer-Simon"
+    }
+  ],
+  "dependencies": {
+    "WiFi": "~2"
+  },
+  "headers": [
+    "ArduinoMultiWiFi.h"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Fischer-Simon/ArduinoMultiWiFi",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
